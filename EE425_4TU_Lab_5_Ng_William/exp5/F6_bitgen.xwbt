@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\student01\Desktop\Sap\exp5\exp5\F6.ncd
+OUTFILE=C:\Users\student01\Desktop\Sap\exp5\exp5\F6.bit
+FAMILY=Artix7
+PART=xc7a100t-1csg324
+WORKINGDIR=C:\Users\student01\Desktop\Sap\exp5\exp5
+LICENSE=WebPack
+USER_INFO=210953278_1777523706_0_836

@@ -1,0 +1,13 @@
+xst -intstyle ise -ifn "C:/Users/student01/Desktop/Sap/exp5/exp5/F6.xst" -ofn "C:/Users/student01/Desktop/Sap/exp5/exp5/F6.syr" 
+xst -intstyle ise -ifn "C:/Users/student01/Desktop/Sap/exp5/exp5/F6.xst" -ofn "C:/Users/student01/Desktop/Sap/exp5/exp5/F6.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc F6.ucf -p xc7a100t-csg324-1 F6.ngc F6.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o F6_map.ncd F6.ngd F6.pcf 
+par -w -intstyle ise -ol high -mt off F6_map.ncd F6.ncd F6.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml F6.twx F6.ncd -o F6.twr F6.pcf -ucf F6.ucf 
+bitgen -intstyle ise -f F6.ut F6.ncd 
+xst -intstyle ise -ifn "C:/Users/student01/Desktop/Sap/exp5/exp5/F6.xst" -ofn "C:/Users/student01/Desktop/Sap/exp5/exp5/F6.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc F6.ucf -p xc7a100t-csg324-1 F6.ngc F6.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o F6_map.ncd F6.ngd F6.pcf 
+par -w -intstyle ise -ol high -mt off F6_map.ncd F6.ncd F6.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml F6.twx F6.ncd -o F6.twr F6.pcf -ucf F6.ucf 
+bitgen -intstyle ise -f F6.ut F6.ncd 
