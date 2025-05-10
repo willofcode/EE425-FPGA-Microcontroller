@@ -1,0 +1,3 @@
+MODULE timinggenerator
+	SUBMODULE digitalfilter
+		INSTANCE XLXI_43

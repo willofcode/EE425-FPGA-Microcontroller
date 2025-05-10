@@ -1,0 +1,3 @@
+vhdl work "digitalfilter.vhf"
+vhdl work "timinggenerator.vhf"
+vhdl work "digital_filter.vhf"

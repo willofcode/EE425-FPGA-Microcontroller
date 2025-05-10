@@ -1,0 +1,33 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Fri May 02 10:59:33 2025
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "outclockp" LOCATE = SITE "G17" LEVEL 1;
+COMP "serialinput" LOCATE = SITE "D18" LEVEL 1;
+COMP "serialoutput" LOCATE = SITE "F6" LEVEL 1;
+COMP "sync1" LOCATE = SITE "K1" LEVEL 1;
+COMP "clk" LOCATE = SITE "E3" LEVEL 1;
+COMP "sclock" LOCATE = SITE "G6" LEVEL 1;
+COMP "msb" LOCATE = SITE "C17" LEVEL 1;
+TIMEGRP XLXN_19 = BEL "XLXI_22" BEL "XLXI_27/q_tmp" BEL "XLXI_26/q_tmp" BEL
+        "XLXI_25/q_tmp" BEL "XLXI_24/q_tmp" BEL "XLXI_23/q_tmp";
+TIMEGRP XLXN_54 = BEL "XLXI_34/q_tmp_0" BEL "XLXI_34/q_tmp_1" BEL
+        "XLXI_34/q_tmp_2" BEL "XLXI_34/q_tmp_3" BEL "XLXI_34/q_tmp_4" BEL
+        "XLXI_34/q_tmp_5" BEL "XLXI_34/q_tmp_6" BEL "XLXI_34/q_tmp_7" BEL
+        "XLXI_34/q_tmp_8" BEL "XLXI_34/q_tmp_9" BEL "XLXI_34/q_tmp_10" BEL
+        "XLXI_34/q_tmp_11" BEL "XLXI_34/q_tmp_12" BEL "XLXI_34/q_tmp_13" BEL
+        "XLXI_34/q_tmp_14" BEL "XLXI_34/q_tmp_15" BEL "XLXI_35/q_tmp_0" BEL
+        "XLXI_35/q_tmp_1" BEL "XLXI_35/q_tmp_2" BEL "XLXI_35/q_tmp_3" BEL
+        "XLXI_35/q_tmp_4" BEL "XLXI_35/q_tmp_5" BEL "XLXI_35/q_tmp_6" BEL
+        "XLXI_35/q_tmp_7" BEL "XLXI_35/q_tmp_8" BEL "XLXI_35/q_tmp_9" BEL
+        "XLXI_35/q_tmp_10" BEL "XLXI_35/q_tmp_11" BEL "XLXI_35/q_tmp_12" BEL
+        "XLXI_35/q_tmp_13" BEL "XLXI_35/q_tmp_14" BEL "XLXI_35/q_tmp_15";
+PIN XLXI_20_pins<2> = BEL "XLXI_20" PINNAME CLKIN1;
+TIMEGRP sys_clk_pin = PIN "XLXI_20_pins<2>";
+TS_sys_clk_pin = PERIOD TIMEGRP "sys_clk_pin" 100 MHz HIGH 50%;
+TS_XLXN_19 = PERIOD TIMEGRP "XLXN_19" TS_sys_clk_pin * 0.2 HIGH 50%;
+TS_XLXN_54 = PERIOD TIMEGRP "XLXN_54" TS_sys_clk_pin * 0.2 PHASE 25 ns HIGH
+        50%;
+SCHEMATIC END;
+

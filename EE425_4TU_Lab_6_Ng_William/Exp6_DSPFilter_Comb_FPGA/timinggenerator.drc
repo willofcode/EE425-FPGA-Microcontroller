@@ -1,0 +1,12 @@
+Release 14.7 Drc P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Fri May 02 11:00:25 2025
+
+drc -z timinggenerator.ncd timinggenerator.pcf
+
+WARNING:PhysDesignRules:2240 - The MMCME2_ADV block <XLXI_20> has CLKOUT pins
+   that do not drive the same kind of BUFFER load. Routing from the different
+   buffer types will not be phase aligned. 
+DRC detected 0 errors and 1 warnings.  Please see the previously displayed
+individual error or warning messages for more details.

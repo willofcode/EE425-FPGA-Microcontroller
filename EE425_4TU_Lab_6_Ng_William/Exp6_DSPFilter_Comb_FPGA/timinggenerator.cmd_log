@@ -1,0 +1,120 @@
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+xst -intstyle ise -ifn "C:/Users/mconner/DSPexample1/timinggenerator.xst" -ofn "C:/Users/mconner/DSPexample1/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+sch2sym -intstyle ise -family artix7 -refsym timinggenerator C:/Users/mconner/example1/timinggenerator.sch C:/Users/mconner/DSPexample1/timinggenerator.sym 
+xst -intstyle ise -ifn "C:/Users/student01/Desktop/Sap/exp6/Exp6_DSPFilter_Comb_FPGA/timinggenerator.xst" -ofn "C:/Users/student01/Desktop/Sap/exp6/Exp6_DSPFilter_Comb_FPGA/timinggenerator.syr" 
+xst -intstyle ise -ifn "C:/Users/student01/Desktop/Sap/exp6/Exp6_DSPFilter_Comb_FPGA/timinggenerator.xst" -ofn "C:/Users/student01/Desktop/Sap/exp6/Exp6_DSPFilter_Comb_FPGA/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+xst -intstyle ise -ifn "C:/Users/student01/Desktop/Sap/exp6/Exp6_DSPFilter_Comb_FPGA/timinggenerator.xst" -ofn "C:/Users/student01/Desktop/Sap/exp6/Exp6_DSPFilter_Comb_FPGA/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 
+xst -intstyle ise -ifn "C:/Users/student01/Desktop/Sap/exp6/Exp6_DSPFilter_Comb_FPGA/timinggenerator.xst" -ofn "C:/Users/student01/Desktop/Sap/exp6/Exp6_DSPFilter_Comb_FPGA/timinggenerator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc timinggenerator_ucf.ucf -p xc7a100t-csg324-3 timinggenerator.ngc timinggenerator.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o timinggenerator_map.ncd timinggenerator.ngd timinggenerator.pcf 
+par -w -intstyle ise -ol high -mt off timinggenerator_map.ncd timinggenerator.ncd timinggenerator.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml timinggenerator.twx timinggenerator.ncd -o timinggenerator.twr timinggenerator.pcf -ucf timinggenerator_ucf.ucf 
+bitgen -intstyle ise -f timinggenerator.ut timinggenerator.ncd 

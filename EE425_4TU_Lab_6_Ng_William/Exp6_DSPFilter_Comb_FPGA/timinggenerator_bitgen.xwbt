@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.ncd
+OUTFILE=C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA
+LICENSE=WebPack
+USER_INFO=210953278_1777523706_0_836

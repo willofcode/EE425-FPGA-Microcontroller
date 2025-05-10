@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 166: Net &lt;<arg fmt="%s" index="1">XLXN_38</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 174: Net &lt;<arg fmt="%s" index="1">XLXI_4_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 175: Net &lt;<arg fmt="%s" index="1">XLXI_5_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 176: Net &lt;<arg fmt="%s" index="1">XLXI_6_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 177: Net &lt;<arg fmt="%s" index="1">XLXI_7_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 178: Net &lt;<arg fmt="%s" index="1">XLXI_8_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 179: Net &lt;<arg fmt="%s" index="1">XLXI_9_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 180: Net &lt;<arg fmt="%s" index="1">XLXI_10_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 181: Net &lt;<arg fmt="%s" index="1">XLXI_11_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 182: Net &lt;<arg fmt="%s" index="1">XLXI_12_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 183: Net &lt;<arg fmt="%s" index="1">XLXI_13_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 184: Net &lt;<arg fmt="%s" index="1">XLXI_14_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 185: Net &lt;<arg fmt="%s" index="1">XLXI_15_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 186: Net &lt;<arg fmt="%s" index="1">XLXI_16_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 187: Net &lt;<arg fmt="%s" index="1">XLXI_17_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 188: Net &lt;<arg fmt="%s" index="1">XLXI_18_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 189: Net &lt;<arg fmt="%s" index="1">XLXI_19_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 190: Net &lt;<arg fmt="%s" index="1">XLXI_20_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 191: Net &lt;<arg fmt="%s" index="1">XLXI_21_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 192: Net &lt;<arg fmt="%s" index="1">XLXI_22_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 193: Net &lt;<arg fmt="%s" index="1">XLXI_23_CI_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 194: Net &lt;<arg fmt="%s" index="1">XLXI_24_CI_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf" Line 195: Net &lt;<arg fmt="%s" index="1">XLXI_30_CI_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf" Line 214: Net &lt;<arg fmt="%s" index="1">XLXI_20_PWRDWN_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf" Line 215: Net &lt;<arg fmt="%s" index="1">XLXI_35_CLR_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf" Line 216: Net &lt;<arg fmt="%s" index="1">XLXI_35_SLI_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf" Line 217: Net &lt;<arg fmt="%s" index="1">XLXI_35_SRI_openSignal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf</arg>&quot; line <arg fmt="%s" index="2">388</arg>: Output port &lt;<arg fmt="%s" index="3">CLKFBOUTB</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_20</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf</arg>&quot; line <arg fmt="%s" index="2">388</arg>: Output port &lt;<arg fmt="%s" index="3">CLKOUT0B</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_20</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf</arg>&quot; line <arg fmt="%s" index="2">388</arg>: Output port &lt;<arg fmt="%s" index="3">CLKOUT1B</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_20</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf</arg>&quot; line <arg fmt="%s" index="2">388</arg>: Output port &lt;<arg fmt="%s" index="3">CLKOUT2B</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_20</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf</arg>&quot; line <arg fmt="%s" index="2">388</arg>: Output port &lt;<arg fmt="%s" index="3">CLKOUT3B</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_20</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf</arg>&quot; line <arg fmt="%s" index="2">388</arg>: Output port &lt;<arg fmt="%s" index="3">CLKOUT4</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_20</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf</arg>&quot; line <arg fmt="%s" index="2">388</arg>: Output port &lt;<arg fmt="%s" index="3">CLKOUT5</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_20</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf</arg>&quot; line <arg fmt="%s" index="2">388</arg>: Output port &lt;<arg fmt="%s" index="3">CLKOUT6</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_20</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf</arg>&quot; line <arg fmt="%s" index="2">388</arg>: Output port &lt;<arg fmt="%s" index="3">LOCKED</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_20</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\timinggenerator.vhf</arg>&quot; line <arg fmt="%s" index="2">530</arg>: Output port &lt;<arg fmt="%s" index="3">G</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_38</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_20_PWRDWN_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_35_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_35_SLI_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_35_SRI_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf</arg>&quot; line <arg fmt="%s" index="2">399</arg>: Output port &lt;<arg fmt="%s" index="3">CO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_23</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf</arg>&quot; line <arg fmt="%s" index="2">399</arg>: Output port &lt;<arg fmt="%s" index="3">OFL</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_23</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf</arg>&quot; line <arg fmt="%s" index="2">408</arg>: Output port &lt;<arg fmt="%s" index="3">CO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_24</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf</arg>&quot; line <arg fmt="%s" index="2">408</arg>: Output port &lt;<arg fmt="%s" index="3">OFL</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_24</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf</arg>&quot; line <arg fmt="%s" index="2">426</arg>: Output port &lt;<arg fmt="%s" index="3">CO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_30</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\student01\Desktop\Sap\exp6\Exp6_DSPFilter_Comb_FPGA\digitalfilter.vhf</arg>&quot; line <arg fmt="%s" index="2">426</arg>: Output port &lt;<arg fmt="%s" index="3">OFL</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">XLXI_30</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXN_38</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_4_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_5_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_6_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_7_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_8_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_9_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_10_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_11_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_12_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_13_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_14_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_15_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_16_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_17_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_18_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_19_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_20_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_21_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_22_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_23_CI_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_24_CI_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_30_CI_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="info" file="Xst" num="1901" delta="old" >Instance <arg fmt="%s" index="1">XLXI_20</arg> in unit <arg fmt="%s" index="2">timinggenerator</arg> of type <arg fmt="%s" index="3">MMCME2_BASE</arg> has been replaced by <arg fmt="%s" index="4">MMCME2_ADV</arg>
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+<msg type="warning" file="Xst" num="615" delta="old" ><arg fmt="%s" index="1">Flip flop associated with net</arg> <arg fmt="%s" index="2">Q</arg> not found, property <arg fmt="%s" index="3">IOB</arg> not attached.
+</msg>
+
+</messages>
